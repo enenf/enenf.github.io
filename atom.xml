@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.liuhuanblog.top</id>
-    <title>刘欢の博客</title>
+    <id>https://enenf-github-io.vercel.app</id>
+    <title>童の博客</title>
     <subtitle>整这么花，你不要命了！</subtitle>
-    <icon>http://www.liuhuanblog.top/images/favicon.ico</icon>
-    <link href="http://www.liuhuanblog.top" />
+    <icon>https://enenf-github-io.vercel.app/images/favicon.ico</icon>
+    <link href="https://enenf-github-io.vercel.app" />
     <author>
-      <name>liuhuan</name>
+      <name>童雅娟</name>
     </author>
     <updated>2023-06-07T08:47:04.369Z</updated>
     <category term="前端" />
     <category term=" React" />
     <category term=" 全栈" />
     <entry>
-        <id>http://www.liuhuanblog.top/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</id>
+        <id>https://enenf-github-io.vercel.app/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</id>
         <title>计算机网络</title>
-        <link rel="alternate" href="http://www.liuhuanblog.top/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
         <content type="html">&lt;h2 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h2&gt;
 &lt;h5 id=&#34;1说一下http的请求方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1说一下http的请求方法&#34;&gt;#&lt;/a&gt; 1. 说一下 http 的请求方法&lt;/h5&gt;
 &lt;p&gt;总共有 8 种，&lt;/p&gt;
@@ -47,16 +47,16 @@ post 请求的请求参数都是请求 body 中&lt;/p&gt;
 &lt;p&gt;4. 可见性 参数在 URL 用户可以看见，POST 的参数在 REQUSET BODY 中不会被用户看见&lt;/p&gt;
 &lt;p&gt;5. 安全性 GET 相对不安全 POST 相对安全些&lt;/p&gt;
 </content>
-        <category term="笔记" scheme="http://www.liuhuanblog.top/categories/note/" />
-        <category term="面试" scheme="http://www.liuhuanblog.top/categories/note/%E9%9D%A2%E8%AF%95/" />
-        <category term="http" scheme="http://www.liuhuanblog.top/tags/http/" />
-        <category term="计算机网络" scheme="http://www.liuhuanblog.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/" />
+        <category term="笔记" scheme="https://enenf-github-io.vercel.app/categories/note/" />
+        <category term="面试" scheme="https://enenf-github-io.vercel.app/categories/note/%E9%9D%A2%E8%AF%95/" />
+        <category term="http" scheme="https://enenf-github-io.vercel.app/tags/http/" />
+        <category term="计算机网络" scheme="https://enenf-github-io.vercel.app/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/" />
         <updated>2023-06-07T08:47:04.369Z</updated>
     </entry>
     <entry>
-        <id>http://www.liuhuanblog.top/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/</id>
+        <id>https://enenf-github-io.vercel.app/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/</id>
         <title>浏览器性能优化</title>
-        <link rel="alternate" href="http://www.liuhuanblog.top/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
         <content type="html">&lt;h2 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h2&gt;
 &lt;h5 id=&#34;1html渲染过程详解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1html渲染过程详解&#34;&gt;#&lt;/a&gt; 1.html 渲染过程详解&lt;/h5&gt;
 &lt;p&gt;用户输入 url 地址，浏览器根据域名寻找 IP 地址&lt;br /&gt;
@@ -81,15 +81,15 @@ post 请求的请求参数都是请求 body 中&lt;/p&gt;
 &lt;p&gt;6. 服务器返回一个 http 响应&lt;/p&gt;
 &lt;p&gt;7. 浏览器进行 html 的解析以及渲染绘制制图&lt;/p&gt;
 </content>
-        <category term="笔记" scheme="http://www.liuhuanblog.top/categories/note/" />
-        <category term="性能优化" scheme="http://www.liuhuanblog.top/categories/note/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/" />
-        <category term="性能优化" scheme="http://www.liuhuanblog.top/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/" />
+        <category term="笔记" scheme="https://enenf-github-io.vercel.app/categories/note/" />
+        <category term="性能优化" scheme="https://enenf-github-io.vercel.app/categories/note/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/" />
+        <category term="性能优化" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/" />
         <updated>2023-06-07T08:47:04.366Z</updated>
     </entry>
     <entry>
-        <id>http://www.liuhuanblog.top/Vue/</id>
+        <id>https://enenf-github-io.vercel.app/Vue/</id>
         <title>Vue</title>
-        <link rel="alternate" href="http://www.liuhuanblog.top/Vue/"/>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/Vue/"/>
         <content type="html">&lt;h2 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h2&gt;
 &lt;h5 id=&#34;1说一说对vue的理解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1说一说对vue的理解&#34;&gt;#&lt;/a&gt; 1. 说一说对 vue 的理解？&lt;/h5&gt;
 &lt;p&gt;1、MVVM 是核心特性之一，其中 M 表示 Model 数据，V 表示 View 视图，VM 表示 ViewMode 视图模型层，主要用来连接 Model 和 View&lt;/p&gt;
@@ -159,16 +159,16 @@ post 请求的请求参数都是请求 body 中&lt;/p&gt;
 &lt;p&gt;10. 插槽&lt;/p&gt;
 &lt;p&gt;11vuex&lt;/p&gt;
 </content>
-        <category term="笔记" scheme="http://www.liuhuanblog.top/categories/note/" />
-        <category term="Vue" scheme="http://www.liuhuanblog.top/categories/note/Vue/" />
-        <category term="Vue" scheme="http://www.liuhuanblog.top/tags/Vue/" />
-        <category term="vite" scheme="http://www.liuhuanblog.top/tags/vite/" />
+        <category term="笔记" scheme="https://enenf-github-io.vercel.app/categories/note/" />
+        <category term="Vue" scheme="https://enenf-github-io.vercel.app/categories/note/Vue/" />
+        <category term="Vue" scheme="https://enenf-github-io.vercel.app/tags/Vue/" />
+        <category term="vite" scheme="https://enenf-github-io.vercel.app/tags/vite/" />
         <updated>2023-06-07T08:47:04.364Z</updated>
     </entry>
     <entry>
-        <id>http://www.liuhuanblog.top/JavaScript/</id>
+        <id>https://enenf-github-io.vercel.app/JavaScript/</id>
         <title>JavaScript</title>
-        <link rel="alternate" href="http://www.liuhuanblog.top/JavaScript/"/>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/JavaScript/"/>
         <content type="html">&lt;h2 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h2&gt;
 &lt;h6 id=&#34;1什么是闭包&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1什么是闭包&#34;&gt;#&lt;/a&gt; &lt;strong&gt;1. 什么是闭包？&lt;/strong&gt;&lt;/h6&gt;
 &lt;p&gt;内层函数 + 引用的外层函数变量 = 闭包&lt;/p&gt;
@@ -240,16 +240,16 @@ post 请求的请求参数都是请求 body 中&lt;/p&gt;
 &lt;p&gt;7.promise 和 proxy&lt;/p&gt;
 &lt;p&gt;8. 模块化&lt;/p&gt;
 </content>
-        <category term="笔记" scheme="http://www.liuhuanblog.top/categories/note/" />
-        <category term="面试" scheme="http://www.liuhuanblog.top/categories/note/%E9%9D%A2%E8%AF%95/" />
-        <category term="JavaScript" scheme="http://www.liuhuanblog.top/categories/note/%E9%9D%A2%E8%AF%95/javascript/" />
-        <category term="JavaScript" scheme="http://www.liuhuanblog.top/tags/JavaScript/" />
+        <category term="笔记" scheme="https://enenf-github-io.vercel.app/categories/note/" />
+        <category term="面试" scheme="https://enenf-github-io.vercel.app/categories/note/%E9%9D%A2%E8%AF%95/" />
+        <category term="JavaScript" scheme="https://enenf-github-io.vercel.app/categories/note/%E9%9D%A2%E8%AF%95/javascript/" />
+        <category term="JavaScript" scheme="https://enenf-github-io.vercel.app/tags/JavaScript/" />
         <updated>2023-06-07T08:47:04.360Z</updated>
     </entry>
     <entry>
-        <id>http://www.liuhuanblog.top/HTML+CSS/</id>
+        <id>https://enenf-github-io.vercel.app/HTML+CSS/</id>
         <title>HTML+CSS</title>
-        <link rel="alternate" href="http://www.liuhuanblog.top/HTML+CSS/"/>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/HTML+CSS/"/>
         <content type="html">&lt;h2 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h2&gt;
 &lt;h5 id=&#34;1说一下浮动&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1说一下浮动&#34;&gt;#&lt;/a&gt; 1. 说一下浮动？&lt;/h5&gt;
 &lt;p&gt;浮动是脱离文档的普通流存在的（可以看作是漂浮在普通流上），它可以左右浮动，直到它的外边缘遇到包含框或者另一个浮动框为止，&lt;strong&gt;脱离文档流，盒子塌陷，影响其他元素排版&lt;/strong&gt;&lt;/p&gt;
@@ -282,17 +282,17 @@ transition-delay ：指定开始出现的延迟时间&lt;/p&gt;
 &lt;p&gt;animation 动画&lt;/p&gt;
 &lt;p&gt;增加了旋转，缩放，定位，倾斜，动画，多背景&lt;/p&gt;
 </content>
-        <category term="笔记" scheme="http://www.liuhuanblog.top/categories/note/" />
-        <category term="面试" scheme="http://www.liuhuanblog.top/categories/note/%E9%9D%A2%E8%AF%95/" />
-        <category term="CSS" scheme="http://www.liuhuanblog.top/categories/note/%E9%9D%A2%E8%AF%95/CSS/" />
-        <category term="CSS" scheme="http://www.liuhuanblog.top/tags/CSS/" />
-        <category term="HTML" scheme="http://www.liuhuanblog.top/tags/HTML/" />
+        <category term="笔记" scheme="https://enenf-github-io.vercel.app/categories/note/" />
+        <category term="面试" scheme="https://enenf-github-io.vercel.app/categories/note/%E9%9D%A2%E8%AF%95/" />
+        <category term="CSS" scheme="https://enenf-github-io.vercel.app/categories/note/%E9%9D%A2%E8%AF%95/CSS/" />
+        <category term="HTML" scheme="https://enenf-github-io.vercel.app/tags/HTML/" />
+        <category term="CSS" scheme="https://enenf-github-io.vercel.app/tags/CSS/" />
         <updated>2023-06-07T08:47:04.357Z</updated>
     </entry>
     <entry>
-        <id>http://www.liuhuanblog.top/2023-university/</id>
+        <id>https://enenf-github-io.vercel.app/2023-university/</id>
         <title>2023，写给自己大学的一篇文章</title>
-        <link rel="alternate" href="http://www.liuhuanblog.top/2023-university/"/>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/2023-university/"/>
         <content type="html">&lt;p&gt;2023，写给自己的一篇文章&lt;/p&gt;
 &lt;p&gt;emmm, 还没开始写，下面用 AI 占个位吧&lt;/p&gt;
 &lt;p&gt;1. 越想逃避宿命，越会在半道上与宿命撞个正着。&lt;/p&gt;
@@ -305,14 +305,14 @@ transition-delay ：指定开始出现的延迟时间&lt;/p&gt;
 &lt;p&gt;8.Yesterday been history，tomorrow to be mystery，today is gift.That&#39;s why it is called present。你患得患失，太在意从前，又太担心将来，有句话说得好，昨天是段历史，明天是个迷团，而今天是天赐的礼物，像珍惜礼物那样珍惜今天。&lt;/p&gt;
 &lt;p&gt;hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/p&gt;
 </content>
-        <category term="随笔" scheme="http://www.liuhuanblog.top/categories/life/" />
-        <category term="总结" scheme="http://www.liuhuanblog.top/tags/%E6%80%BB%E7%BB%93/" />
+        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/life/" />
+        <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
         <updated>2022-04-21T18:02:14.000Z</updated>
     </entry>
     <entry>
-        <id>http://www.liuhuanblog.top/coding-train/hot-100/day1/</id>
+        <id>https://enenf-github-io.vercel.app/coding-train/hot-100/day1/</id>
         <title>剑指offer day1 栈与队列（简单）</title>
-        <link rel="alternate" href="http://www.liuhuanblog.top/coding-train/hot-100/day1/"/>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/coding-train/hot-100/day1/"/>
         <content type="html">&lt;p&gt;day1 题目：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMveW9uZy1saWFuZy1nZS16aGFuLXNoaS14aWFuLWR1aS1saWUtbGNvZi8=&#34;&gt;剑指 Offer 09. 用两个栈实现队列&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvYmFvLWhhbi1taW5oYW4tc2h1LWRlLXpoYW4tbGNvZi8=&#34;&gt;剑指 Offer 30. 包含 min 函数的栈&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;知识点：栈、队列、设计，难度为简单、简单&lt;/p&gt;
 &lt;p&gt;学习计划链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vc3R1ZHktcGxhbi9sY29mLz9wcm9ncmVzcz03am43MGpy&#34;&gt;「剑指 Offer」 - 学习计划&lt;/span&gt;&lt;/p&gt;
@@ -376,12 +376,12 @@ minStack.min();   --&amp;gt; 返回 -2.
 &lt;p&gt;注意：本题与主站 155 题相同：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvbWluLXN0YWNrLw==&#34;&gt;https://leetcode-cn.com/problems/min-stack/&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;思路及代码-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#思路及代码-2&#34;&gt;#&lt;/a&gt; 思路及代码&lt;/h2&gt;
 &lt;figure class=&#34;highlight javascript&#34;&gt;&lt;figcaption data-lang=&#34;javascript&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;// @algorithm @lc id=100302 lang=javascript &lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;// @title bao-han-minhan-shu-de-zhan-lcof&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;/**&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; * initialize your data structure here.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; */&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;var&lt;/span&gt; &lt;span class=&#34;token function-variable function&#34;&gt;MinStack&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;function&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;s &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;mins &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;/** &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; * @param &amp;#123;number&amp;#125; x&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; * @return &amp;#123;void&amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; */&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token class-name&#34;&gt;MinStack&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;prototype&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function-variable function&#34;&gt;push&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;function&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token parameter&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;s&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;x&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;mins&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;length &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;||&lt;/span&gt; x &lt;span class=&#34;token operator&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;mins&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;mins&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;length &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;token comment&#34;&gt;//push 的元素小于当前元素，将其放入 mins&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;mins&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;x&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;/**&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; * @return &amp;#123;void&amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; */&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; &lt;span class=&#34;token class-name&#34;&gt;MinStack&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;prototype&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function-variable function&#34;&gt;pop&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;function&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;let&lt;/span&gt; x &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;s&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;pop&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;x &lt;span class=&#34;token operator&#34;&gt;===&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;mins&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;mins&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;length &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 如果 pop 的元素是 mins 的最后一个元素，则 mins 也要 pop&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;mins&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;pop&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;/**&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;31&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; * @return &amp;#123;number&amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;32&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; */&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;33&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token class-name&#34;&gt;MinStack&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;prototype&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function-variable function&#34;&gt;top&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;function&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;34&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;s&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;s&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;length &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;35&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;36&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;37&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;/**&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;38&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; * @return &amp;#123;number&amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;39&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; */&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;40&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; &lt;span class=&#34;token class-name&#34;&gt;MinStack&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;prototype&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function-variable function&#34;&gt;min&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;function&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;41&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;mins&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;this&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;mins&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;length &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;42&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;43&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;44&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;/**&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;45&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; * Your MinStack object will be instantiated and called as such:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;46&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; * var obj = new MinStack()&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;47&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; * obj.push(x)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;48&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; * obj.pop()&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;49&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; * var param_3 = obj.top()&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;50&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; * var param_4 = obj.min()&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;51&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; */&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;52&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; &lt;span class=&#34;token keyword&#34;&gt;var&lt;/span&gt; obj &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;MinStack&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;53&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; obj&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;54&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; obj&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;55&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; obj&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;56&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; console&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;obj&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;min&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;     &lt;span class=&#34;token comment&#34;&gt;// -3&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;57&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; obj&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;pop&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;58&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; console&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;obj&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;top&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;     &lt;span class=&#34;token comment&#34;&gt;// 0&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;59&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;console&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;obj&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;min&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;      &lt;span class=&#34;token comment&#34;&gt;// -2&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
-        <category term="题目记录" scheme="http://www.liuhuanblog.top/categories/coding-train/" />
-        <category term="剑指offer" scheme="http://www.liuhuanblog.top/categories/coding-train/offer/" />
-        <category term="leetcode" scheme="http://www.liuhuanblog.top/tags/leetcode/" />
-        <category term="栈" scheme="http://www.liuhuanblog.top/tags/%E6%A0%88/" />
-        <category term="队列" scheme="http://www.liuhuanblog.top/tags/%E9%98%9F%E5%88%97/" />
-        <category term="设计" scheme="http://www.liuhuanblog.top/tags/%E8%AE%BE%E8%AE%A1/" />
+        <category term="题目记录" scheme="https://enenf-github-io.vercel.app/categories/coding-train/" />
+        <category term="剑指offer" scheme="https://enenf-github-io.vercel.app/categories/coding-train/offer/" />
+        <category term="leetcode" scheme="https://enenf-github-io.vercel.app/tags/leetcode/" />
+        <category term="栈" scheme="https://enenf-github-io.vercel.app/tags/%E6%A0%88/" />
+        <category term="队列" scheme="https://enenf-github-io.vercel.app/tags/%E9%98%9F%E5%88%97/" />
+        <category term="设计" scheme="https://enenf-github-io.vercel.app/tags/%E8%AE%BE%E8%AE%A1/" />
         <updated>2022-03-30T08:00:52.000Z</updated>
     </entry>
 </feed>
