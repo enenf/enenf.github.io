@@ -29,46 +29,17 @@ hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://enenf-github-io.vercel.app/HTML+CSS/</guid>
-            <title>HTML+CSS</title>
-            <link>https://enenf-github-io.vercel.app/HTML+CSS/</link>
-            <category term="笔记" scheme="https://enenf-github-io.vercel.app/categories/note/" />
-            <category term="面试" scheme="https://enenf-github-io.vercel.app/categories/note/%E9%9D%A2%E8%AF%95/" />
-            <category term="CSS" scheme="https://enenf-github-io.vercel.app/categories/note/%E9%9D%A2%E8%AF%95/CSS/" />
-            <category term="CSS" scheme="https://enenf-github-io.vercel.app/tags/CSS/" />
+            <guid isPermalink="true">https://enenf-github-io.vercel.app/%E9%9A%8F%E7%AC%94/</guid>
+            <title>嘿嘿嘿</title>
+            <link>https://enenf-github-io.vercel.app/%E9%9A%8F%E7%AC%94/</link>
+            <category term="随便写写" scheme="https://enenf-github-io.vercel.app/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/" />
             <category term="HTML" scheme="https://enenf-github-io.vercel.app/tags/HTML/" />
+            <category term="随笔" scheme="https://enenf-github-io.vercel.app/tags/%E9%9A%8F%E7%AC%94/" />
             <pubDate>Wed, 07 Jun 2023 16:47:04 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h2&gt;
-&lt;h5 id=&#34;1说一下浮动&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1说一下浮动&#34;&gt;#&lt;/a&gt; 1. 说一下浮动？&lt;/h5&gt;
-&lt;p&gt;浮动是脱离文档的普通流存在的（可以看作是漂浮在普通流上），它可以左右浮动，直到它的外边缘遇到包含框或者另一个浮动框为止，&lt;strong&gt;脱离文档流，盒子塌陷，影响其他元素排版&lt;/strong&gt;&lt;/p&gt;
-&lt;h5 id=&#34;2html语义化是什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2html语义化是什么&#34;&gt;#&lt;/a&gt; 2.html 语义化是什么？&lt;/h5&gt;
-&lt;ol&gt;
-&lt;li&gt;有利于 SEO，搜索引擎根据标签确定上下文和各个关键字的权重。&lt;/li&gt;
-&lt;li&gt;利于用户阅读，样式文件未加载时页面结构清晰。&lt;/li&gt;
-&lt;li&gt;利于屏幕阅读器解析，如盲人阅读器会根据语义渲染网页。&lt;/li&gt;
-&lt;li&gt;利于开发和维护，代码更具可读性、更易于维护。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h5 id=&#34;3说一说css尺寸设置的单位&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3说一说css尺寸设置的单位&#34;&gt;#&lt;/a&gt; 3. 说一说 CSS 尺寸设置的单位&lt;/h5&gt;
-&lt;p&gt;1.px 绝对像素&lt;/p&gt;
-&lt;p&gt;2.rem 相对于根元素像素，&lt;/p&gt;
-&lt;p&gt;3.em 相对于父元素像素&lt;/p&gt;
-&lt;p&gt;4.vw 视口宽度&lt;/p&gt;
-&lt;p&gt;5.vh 视口高度&lt;/p&gt;
-&lt;h5 id=&#34;4过渡transition有哪些属性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4过渡transition有哪些属性&#34;&gt;#&lt;/a&gt; 4. 过渡 transition 有哪些属性&lt;/h5&gt;
-&lt;p&gt;transition-property ：规定设置过渡效果的 css 属性名称，常用值 “all” 全部 css 属性进行动画效果添加&lt;br /&gt;
- transition-duration ：规定完成过渡效果需要多少秒或毫秒&lt;br /&gt;
- transition-timing-function ：指定过渡函数，规定速度效果的速度曲线 常用值：关键字描述：linear ease-in ease-in-out&lt;br /&gt;
-transition-delay ：指定开始出现的延迟时间&lt;/p&gt;
-&lt;h5 id=&#34;5css3新特性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5css3新特性&#34;&gt;#&lt;/a&gt; 5.css3 新特性&lt;/h5&gt;
-&lt;p&gt;圆角 （border-radius:8px）&lt;/p&gt;
-&lt;p&gt;文字特效 （text-shadow）&lt;/p&gt;
-&lt;p&gt;文字渲染 （Text-decoration）&lt;/p&gt;
-&lt;p&gt;box-shadow&lt;/p&gt;
-&lt;p&gt;线性渐变 （gradient）&lt;/p&gt;
-&lt;p&gt;转换 （transform）&lt;/p&gt;
-&lt;p&gt;transition&lt;/p&gt;
-&lt;p&gt;animation 动画&lt;/p&gt;
-&lt;p&gt;增加了旋转，缩放，定位，倾斜，动画，多背景&lt;/p&gt;
+&lt;h5 id=&#34;什么时候才能让pt看见啊&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么时候才能让pt看见啊&#34;&gt;#&lt;/a&gt; 什么时候才能让 PT 看见啊&lt;/h5&gt;
+&lt;p&gt;我还欠你一个歌单&lt;/p&gt;
+&lt;p&gt;#####lalalalala&lt;/p&gt;
  ]]></description>
         </item>
         <item>
