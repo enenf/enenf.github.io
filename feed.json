@@ -1,11 +1,22 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "童の博客",
-    "subtitle": "整这么花，你不要命了！",
+    "title": "童のBlog",
+    "subtitle": "重塑生活",
     "icon": "https://enenf-github-io.vercel.app/images/favicon.ico",
-    "description": "东偶已逝 桑榆非晚",
+    "description": "林门",
     "home_page_url": "https://enenf-github-io.vercel.app",
     "items": [
+        {
+            "id": "https://enenf-github-io.vercel.app/2023-university/",
+            "url": "https://enenf-github-io.vercel.app/2023-university/",
+            "title": "2023，写给自己大学的一篇文章",
+            "date_published": "2023-06-27T12:02:14.000Z",
+            "content_html": "<p>2023</p>\n<p>yeeee！</p>\n<p>hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</p>\n",
+            "tags": [
+                "随笔",
+                "总结"
+            ]
+        },
         {
             "id": "https://enenf-github-io.vercel.app/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/",
             "url": "https://enenf-github-io.vercel.app/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/",
@@ -69,17 +80,6 @@
                 "CSS",
                 "CSS",
                 "HTML"
-            ]
-        },
-        {
-            "id": "https://enenf-github-io.vercel.app/2023-university/",
-            "url": "https://enenf-github-io.vercel.app/2023-university/",
-            "title": "2023，写给自己大学的一篇文章",
-            "date_published": "2022-04-21T18:02:14.000Z",
-            "content_html": "<p>2023</p>\n<p>AI</p>\n<p>yeeee！</p>\n<p>hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</p>\n",
-            "tags": [
-                "随笔",
-                "总结"
             ]
         },
         {

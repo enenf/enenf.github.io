@@ -1,17 +1,29 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://enenf-github-io.vercel.app</id>
-    <title>童の博客</title>
-    <subtitle>整这么花，你不要命了！</subtitle>
+    <title>童のBlog</title>
+    <subtitle>重塑生活</subtitle>
     <icon>https://enenf-github-io.vercel.app/images/favicon.ico</icon>
     <link href="https://enenf-github-io.vercel.app" />
     <author>
-      <name>童雅娟</name>
+      <name>Tong</name>
     </author>
-    <updated>2023-06-07T08:47:04.369Z</updated>
+    <updated>2023-06-27T12:02:14.000Z</updated>
     <category term="前端" />
     <category term=" React" />
     <category term=" 全栈" />
+    <entry>
+        <id>https://enenf-github-io.vercel.app/2023-university/</id>
+        <title>2023，写给自己大学的一篇文章</title>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/2023-university/"/>
+        <content type="html">&lt;p&gt;2023&lt;/p&gt;
+&lt;p&gt;yeeee！&lt;/p&gt;
+&lt;p&gt;hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/p&gt;
+</content>
+        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/life/" />
+        <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
+        <updated>2023-06-27T12:02:14.000Z</updated>
+    </entry>
     <entry>
         <id>https://enenf-github-io.vercel.app/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</id>
         <title>计算机网络</title>
@@ -288,19 +300,6 @@ transition-delay ：指定开始出现的延迟时间&lt;/p&gt;
         <category term="CSS" scheme="https://enenf-github-io.vercel.app/tags/CSS/" />
         <category term="HTML" scheme="https://enenf-github-io.vercel.app/tags/HTML/" />
         <updated>2023-06-07T08:47:04.357Z</updated>
-    </entry>
-    <entry>
-        <id>https://enenf-github-io.vercel.app/2023-university/</id>
-        <title>2023，写给自己大学的一篇文章</title>
-        <link rel="alternate" href="https://enenf-github-io.vercel.app/2023-university/"/>
-        <content type="html">&lt;p&gt;2023&lt;/p&gt;
-&lt;p&gt;AI&lt;/p&gt;
-&lt;p&gt;yeeee！&lt;/p&gt;
-&lt;p&gt;hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/p&gt;
-</content>
-        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/life/" />
-        <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
-        <updated>2022-04-21T18:02:14.000Z</updated>
     </entry>
     <entry>
         <id>https://enenf-github-io.vercel.app/coding-train/hot-100/day1/</id>
