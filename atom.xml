@@ -174,7 +174,7 @@ post 请求的请求参数都是请求 body 中&lt;/p&gt;
 &lt;p&gt;内层函数 + 引用的外层函数变量 = 闭包&lt;/p&gt;
 &lt;p&gt;闭包的主要应用就是进行数据的私用化，减少全局变量&lt;/p&gt;
 &lt;p&gt;闭包的内存泄露：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/147cai/blog-cdn/note/image-20230213220712311.png&#34; alt=&#34;image-20230213220712311&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/enenf/blog-cdn/note/image-20230213220712311.png&#34; alt=&#34;image-20230213220712311&#34; /&gt;&lt;/p&gt;
 &lt;h6 id=&#34;2宏任务和微任务&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2宏任务和微任务&#34;&gt;#&lt;/a&gt; &lt;strong&gt;2. 宏任务和微任务？&lt;/strong&gt;&lt;/h6&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -188,9 +188,9 @@ post 请求的请求参数都是请求 body 中&lt;/p&gt;
 &lt;p&gt;微任务的执行时机要比宏任务早！（可以先记一哈，后面会继续说这点）&lt;/p&gt;
 &lt;p&gt;Dom 事件不是异步操作，但是它依赖了 eventloop 机制，所以也归在这点里了&lt;/p&gt;
 &lt;figure class=&#34;highlight js&#34;&gt;&lt;figcaption data-lang=&#34;JavaScript&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;console&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;setTimeout&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&gt;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    console&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;200&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Promise&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;resolve&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;then&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;=&gt;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    console&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;300&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;console&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;400&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;// 答案为： 100 400 300 200&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h6 id=&#34;3防抖和节流&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3防抖和节流&#34;&gt;#&lt;/a&gt; 3. 防抖和节流&lt;/h6&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/147cai/blog-cdn/note/image-20230213224807631.png&#34; alt=&#34;image-20230213224807631&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/enenf/blog-cdn/note/image-20230213224807631.png&#34; alt=&#34;image-20230213224807631&#34; /&gt;&lt;/p&gt;
 &lt;h6 id=&#34;4js函数的几种声明方式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4js函数的几种声明方式&#34;&gt;#&lt;/a&gt; 4.js 函数的几种声明方式&lt;/h6&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/147cai/blog-cdn/note/image-20230213225234423.png&#34; alt=&#34;image-20230213225234423&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/enenf/blog-cdn/note/image-20230213225234423.png&#34; alt=&#34;image-20230213225234423&#34; /&gt;&lt;/p&gt;
 &lt;h6 id=&#34;5谈谈你对原型的理解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5谈谈你对原型的理解&#34;&gt;#&lt;/a&gt; 5. 谈谈你对原型的理解？&lt;/h6&gt;
 &lt;p&gt;1、所有的引用类型（数组、函数、对象）可以自由扩展属性（除 null 以外）。&lt;/p&gt;
 &lt;p&gt;2、所有的引用类型都有一个’_ _ proto_ _&#39; 属性 (也叫隐式原型，它是一个普通的对象)。&lt;/p&gt;
@@ -293,16 +293,9 @@ transition-delay ：指定开始出现的延迟时间&lt;/p&gt;
         <id>https://enenf-github-io.vercel.app/2023-university/</id>
         <title>2023，写给自己大学的一篇文章</title>
         <link rel="alternate" href="https://enenf-github-io.vercel.app/2023-university/"/>
-        <content type="html">&lt;p&gt;2023，写给自己的一篇文章&lt;/p&gt;
-&lt;p&gt;emmm, 还没开始写，下面用 AI 占个位吧&lt;/p&gt;
-&lt;p&gt;1. 越想逃避宿命，越会在半道上与宿命撞个正着。&lt;/p&gt;
-&lt;p&gt;2. 你的思绪就像这池水，朋友，稍有外界触动就很难清澈明朗，可如果让它静下来，答案顿时变得清晰了。&lt;/p&gt;
-&lt;p&gt;3. 我告诉你什么事最可悲，你遇见一个人，犯了一个错，你想弥补想还清，到最后才发现你根本无力回天，犯下的罪过永远无法弥补。&lt;/p&gt;
-&lt;p&gt;4. 人心中的成见是一座大山，任你怎么努力都休想搬动。一生中能改变命运的机会可不多呀。&lt;/p&gt;
-&lt;p&gt;5. 我想忘掉一些事情，可怎么也忘不了。忘不了，就别忘了，真正的忘记是不用努力的。&lt;/p&gt;
-&lt;p&gt;6. 也许你的故事并不是从快乐开始的，可这不能决定你的一生。你想要变成什么样子，全看你自己的选择。&lt;/p&gt;
-&lt;p&gt;7. 这短短的一生我们最终都会逝去，你不妨大胆一些，爱一个人，攀一座山，追一个梦。&lt;/p&gt;
-&lt;p&gt;8.Yesterday been history，tomorrow to be mystery，today is gift.That&#39;s why it is called present。你患得患失，太在意从前，又太担心将来，有句话说得好，昨天是段历史，明天是个迷团，而今天是天赐的礼物，像珍惜礼物那样珍惜今天。&lt;/p&gt;
+        <content type="html">&lt;p&gt;2023&lt;/p&gt;
+&lt;p&gt;AI&lt;/p&gt;
+&lt;p&gt;yeeee！&lt;/p&gt;
 &lt;p&gt;hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/p&gt;
 </content>
         <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/life/" />
