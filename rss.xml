@@ -4102,8 +4102,8 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
             <category term="剑指offer" scheme="http://www.liuhuanblog.top/categories/coding-train/offer/" />
             <category term="leetcode" scheme="http://www.liuhuanblog.top/tags/leetcode/" />
             <category term="数组" scheme="http://www.liuhuanblog.top/tags/%E6%95%B0%E7%BB%84/" />
-            <category term="数学" scheme="http://www.liuhuanblog.top/tags/%E6%95%B0%E5%AD%A6/" />
             <category term="分治" scheme="http://www.liuhuanblog.top/tags/%E5%88%86%E6%B2%BB/" />
+            <category term="数学" scheme="http://www.liuhuanblog.top/tags/%E6%95%B0%E5%AD%A6/" />
             <pubDate>Thu, 28 Apr 2022 23:08:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;day30 题目：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvZGEteWluLWNvbmctMWRhby16dWktZGEtZGUtbndlaS1zaHUtbGNvZi8=&#34;&gt;剑指 Offer 17. 打印从 1 到最大的 n 位数&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvc2h1LXp1LXpob25nLWRlLW5pLXh1LWR1aS1sY29mLw==&#34;&gt;剑指 Offer 51. 数组中的逆序对&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;知识点：数组、数学、分治，难度为简单、困难&lt;/p&gt;
@@ -4161,9 +4161,9 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
             <link>http://www.liuhuanblog.top/coding-train/leetcode/offer/day29/</link>
             <category term="题目记录" scheme="http://www.liuhuanblog.top/categories/coding-train/" />
             <category term="剑指offer" scheme="http://www.liuhuanblog.top/categories/coding-train/offer/" />
+            <category term="动态规划" scheme="http://www.liuhuanblog.top/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/" />
             <category term="leetcode" scheme="http://www.liuhuanblog.top/tags/leetcode/" />
             <category term="字符串" scheme="http://www.liuhuanblog.top/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/" />
-            <category term="动态规划" scheme="http://www.liuhuanblog.top/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/" />
             <category term="数学" scheme="http://www.liuhuanblog.top/tags/%E6%95%B0%E5%AD%A6/" />
             <pubDate>Wed, 27 Apr 2022 21:12:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;day29 题目：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvemhlbmctemUtYmlhby1kYS1zaGktcGktcGVpLWxjb2Yv&#34;&gt;剑指 Offer 19. 正则表达式匹配&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvY2hvdS1zaHUtbGNvZi8=&#34;&gt;剑指 Offer 49. 丑数&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS1jbi5jb20vcHJvYmxlbXMvbmdlLXRvdS16aS1kZS1kaWFuLXNodS1sY29mLw==&#34;&gt;剑指 Offer 60. n 个骰子的点数&lt;/span&gt;&lt;/p&gt;
