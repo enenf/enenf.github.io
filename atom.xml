@@ -8,10 +8,21 @@
     <author>
       <name>Tong</name>
     </author>
-    <updated>2023-06-07T17:00:52.000Z</updated>
+    <updated>2023-06-08T08:04:22.382Z</updated>
     <category term="前端" />
     <category term=" React" />
     <category term=" 全栈" />
+    <entry>
+        <id>https://enenf-github-io.vercel.app/%E9%9A%8F%E7%AC%94/</id>
+        <title>jinging</title>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/%E9%9A%8F%E7%AC%94/"/>
+        <content type="html">&lt;p&gt;决定专门写一篇&lt;br /&gt;
+暴揍静静 。&lt;/p&gt;
+</content>
+        <category term="随便写写" scheme="https://enenf-github-io.vercel.app/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/" />
+        <category term="随笔" scheme="https://enenf-github-io.vercel.app/tags/%E9%9A%8F%E7%AC%94/" />
+        <updated>2023-06-08T08:04:22.382Z</updated>
+    </entry>
     <entry>
         <id>https://enenf-github-io.vercel.app/coding-train/day1/</id>
         <title>算法</title>
@@ -43,11 +54,10 @@ yeeee！&lt;/p&gt;
         <title>Thanks</title>
         <link rel="alternate" href="https://enenf-github-io.vercel.app/thanks/"/>
         <content type="html">&lt;p&gt;谢谢大家嘞&lt;br /&gt;
-非常非常感谢教了我一下午的朋友！&lt;br /&gt;
+非常非常非常感谢教了我很久的朋友！&lt;br /&gt;
 感恩！&lt;/p&gt;
 &lt;p&gt;谢谢芬的一些照片&lt;br /&gt;
-谢谢秋秋&lt;br /&gt;
-嘿嘿嘿&lt;/p&gt;
+谢谢秋秋&lt;/p&gt;
 </content>
         <category term="随便写写" scheme="https://enenf-github-io.vercel.app/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/" />
         <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
@@ -63,8 +73,8 @@ yeeee！&lt;/p&gt;
 &lt;h5 id=&#34;lalalalala&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#lalalalala&#34;&gt;#&lt;/a&gt; lalalalala&lt;/h5&gt;
 </content>
         <category term="随便写写" scheme="https://enenf-github-io.vercel.app/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/" />
-        <category term="HTML" scheme="https://enenf-github-io.vercel.app/tags/HTML/" />
         <category term="随笔" scheme="https://enenf-github-io.vercel.app/tags/%E9%9A%8F%E7%AC%94/" />
+        <category term="HTML" scheme="https://enenf-github-io.vercel.app/tags/HTML/" />
         <updated>2023-06-07T08:47:04.357Z</updated>
     </entry>
 </feed>
