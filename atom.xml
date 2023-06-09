@@ -8,10 +8,23 @@
     <author>
       <name>Tong</name>
     </author>
-    <updated>2023-06-08T08:04:22.382Z</updated>
+    <updated>2023-06-09T03:02:14.000Z</updated>
     <category term="前端" />
     <category term=" React" />
     <category term=" 全栈" />
+    <entry>
+        <id>https://enenf-github-io.vercel.app/%E8%8B%B1%E8%AF%AD6%E6%9C%88/</id>
+        <title>2023，第一篇</title>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/%E8%8B%B1%E8%AF%AD6%E6%9C%88/"/>
+        <content type="html">&lt;p&gt;吉林 长春&lt;/p&gt;
+&lt;p&gt;我今天练了一篇 catti 真题汉译英复盘&lt;br /&gt;
+&lt;img data-src=&#34;https://fastly.jsdelivr.net/gh/enenf/blog-CDN/blob/main/note/1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这位姐姐感觉好可爱&lt;/p&gt;
+</content>
+        <category term="Study" scheme="https://enenf-github-io.vercel.app/categories/Study/" />
+        <category term="English" scheme="https://enenf-github-io.vercel.app/tags/English/" />
+        <updated>2023-06-09T03:02:14.000Z</updated>
+    </entry>
     <entry>
         <id>https://enenf-github-io.vercel.app/jingjing/</id>
         <title>jingjing</title>
@@ -37,6 +50,19 @@
         <updated>2023-06-07T17:00:52.000Z</updated>
     </entry>
     <entry>
+        <id>https://enenf-github-io.vercel.app/2023-university/</id>
+        <title>2023，第一篇</title>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/2023-university/"/>
+        <content type="html">&lt;p&gt;2023&lt;br /&gt;
+yeeee！&lt;/p&gt;
+&lt;p&gt;The end is always good. If it is not good, it is not the end.&lt;/p&gt;
+&lt;p&gt;hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/p&gt;
+</content>
+        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/life/" />
+        <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
+        <updated>2023-06-07T16:02:14.000Z</updated>
+    </entry>
+    <entry>
         <id>https://enenf-github-io.vercel.app/thanks/</id>
         <title>Thanks</title>
         <link rel="alternate" href="https://enenf-github-io.vercel.app/thanks/"/>
@@ -47,19 +73,6 @@
 谢谢秋秋&lt;/p&gt;
 </content>
         <category term="随便写写" scheme="https://enenf-github-io.vercel.app/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/" />
-        <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
-        <updated>2023-06-07T16:02:14.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://enenf-github-io.vercel.app/2023-university/</id>
-        <title>2023，第一篇</title>
-        <link rel="alternate" href="https://enenf-github-io.vercel.app/2023-university/"/>
-        <content type="html">&lt;p&gt;2023&lt;br /&gt;
-yeeee！&lt;/p&gt;
-&lt;p&gt;The end is always good. If it is not good, it is not the end.&lt;/p&gt;
-&lt;p&gt;hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/p&gt;
-</content>
-        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/life/" />
         <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
         <updated>2023-06-07T16:02:14.000Z</updated>
     </entry>
