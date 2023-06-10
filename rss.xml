@@ -10,11 +10,34 @@
         </author>
         <description>林门</description>
         <language>zh-CN</language>
-        <pubDate>Fri, 09 Jun 2023 11:02:14 +0800</pubDate>
-        <lastBuildDate>Fri, 09 Jun 2023 11:02:14 +0800</lastBuildDate>
+        <pubDate>Fri, 09 Jun 2023 12:17:32 +0800</pubDate>
+        <lastBuildDate>Fri, 09 Jun 2023 12:17:32 +0800</lastBuildDate>
         <category term="前端" />
         <category term=" React" />
         <category term=" 全栈" />
+        <item>
+            <guid isPermalink="true">https://enenf-github-io.vercel.app/</guid>
+            <title></title>
+            <link>https://enenf-github-io.vercel.app/</link>
+            <pubDate>Fri, 09 Jun 2023 12:17:32 +0800</pubDate>
+            <description><![CDATA[ &lt;pre&gt;&lt;code&gt;title: 2023，第一篇
+link: 英语6月
+subtitile: 赶朝暮
+catalog: true
+lang: cn
+date: 2023-06-09 11:02:14
+cover: img/header_img/4.jpg
+tags:
+- English
+categories:
+- Study
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;吉林 长春&lt;/p&gt;
+&lt;p&gt;我今天练了一篇 catti 真题汉译英复盘&lt;/p&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20230609105731161.png&amp;quot; alt=&amp;quot;image-20230609105731161&amp;quot; style=&amp;quot;zoom: 25%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;p&gt;这位姐姐感觉好可爱&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://enenf-github-io.vercel.app/%E8%8B%B1%E8%AF%AD6%E6%9C%88/</guid>
             <title>学英语哩</title>
@@ -87,10 +110,10 @@ yeeee！&lt;/p&gt;
             <category term="HTML" scheme="https://enenf-github-io.vercel.app/tags/HTML/" />
             <category term="随笔" scheme="https://enenf-github-io.vercel.app/tags/%E9%9A%8F%E7%AC%94/" />
             <pubDate>Wed, 07 Jun 2023 16:47:04 +0800</pubDate>
-            <description><![CDATA[ &lt;h5 id=&#34;什么时候才能让pt看见啊&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么时候才能让pt看见啊&#34;&gt;#&lt;/a&gt; 什么时候才能让 PT 看见啊&lt;/h5&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;什么时候才能让pt看见啊&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么时候才能让pt看见啊&#34;&gt;#&lt;/a&gt; 什么时候才能让 PT 看见啊&lt;/h1&gt;
 &lt;pre&gt;&lt;code&gt;我还欠你一个歌单
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h5 id=&#34;lalalalala&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#lalalalala&#34;&gt;#&lt;/a&gt; lalalalala&lt;/h5&gt;
+&lt;h1 id=&#34;lalalalala&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#lalalalala&#34;&gt;#&lt;/a&gt; lalalalala&lt;/h1&gt;
  ]]></description>
         </item>
     </channel>
