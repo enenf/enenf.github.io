@@ -52,7 +52,7 @@
             <title>jingjing</title>
             <link>https://enenf-github-io.vercel.app/jingjing/</link>
             <category term="随便写写" scheme="https://enenf-github-io.vercel.app/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/" />
-            <category term="back" scheme="https://enenf-github-io.vercel.app/tags/back/" />
+            <category term="无聊" scheme="https://enenf-github-io.vercel.app/tags/%E6%97%A0%E8%81%8A/" />
             <pubDate>Thu, 08 Jun 2023 16:04:22 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;决定专门写一篇&lt;br /&gt;
 暴揍静静 。&lt;/p&gt;
@@ -72,19 +72,6 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://enenf-github-io.vercel.app/2023-university/</guid>
-            <title>2023，第一篇</title>
-            <link>https://enenf-github-io.vercel.app/2023-university/</link>
-            <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/life/" />
-            <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
-            <pubDate>Thu, 08 Jun 2023 00:02:14 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;2023&lt;br /&gt;
-yeeee！&lt;/p&gt;
-&lt;p&gt;The end is always good. If it is not good, it is not the end.&lt;/p&gt;
-&lt;p&gt;hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">https://enenf-github-io.vercel.app/thanks/</guid>
             <title>Thanks</title>
             <link>https://enenf-github-io.vercel.app/thanks/</link>
@@ -96,6 +83,19 @@ yeeee！&lt;/p&gt;
 感恩！&lt;/p&gt;
 &lt;p&gt;谢谢芬的一些照片&lt;br /&gt;
 谢谢秋秋&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://enenf-github-io.vercel.app/2023-university/</guid>
+            <title>2023，第一篇</title>
+            <link>https://enenf-github-io.vercel.app/2023-university/</link>
+            <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/life/" />
+            <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
+            <pubDate>Thu, 08 Jun 2023 00:02:14 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;2023&lt;br /&gt;
+yeeee！&lt;/p&gt;
+&lt;p&gt;The end is always good. If it is not good, it is not the end.&lt;/p&gt;
+&lt;p&gt;hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/p&gt;
  ]]></description>
         </item>
         <item>
