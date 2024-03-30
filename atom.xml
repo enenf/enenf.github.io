@@ -13,9 +13,9 @@
     <category term=" React" />
     <category term=" 全栈" />
     <entry>
-        <id>https://enenf-github-io.vercel.app/reading/</id>
-        <title>Reading</title>
-        <link rel="alternate" href="https://enenf-github-io.vercel.app/reading/"/>
+        <id>https://enenf-github-io.vercel.app/educated/</id>
+        <title>Educated</title>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/educated/"/>
         <content type="html">&lt;h3 id=&#34;dwarfed-by-the-mountain-hushed-by-the-wind&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dwarfed-by-the-mountain-hushed-by-the-wind&#34;&gt;#&lt;/a&gt; Dwarfed by the mountain, hushed by the wind.&lt;/h3&gt;
 &lt;p&gt;📖高山令其渺小，山风让其缄默。&lt;/p&gt;
 &lt;p&gt;📖山上的生活给人一种至高无上之感，一种遗世独立，甚至统治之感。在那个广阔的空间里，你可以孤身一个人几小时畅行无阻，漂浮在松林、灌木和岩石的海洋。那是无边无际的静谧，使人沉静，在它的广袤面前人类显得微不足道。&lt;/p&gt;
@@ -27,20 +27,20 @@
 &lt;p&gt;📖你可以用很多说法来称呼这个自我：转变，蜕变，虚伪，背叛。而我称之为：教育。&lt;/p&gt;
 &lt;p&gt;📖我们生命中都有一座真正的山属于我们自己，希望我们每一个人最终都能够像鸟一样，飞往我们自己的山。&lt;/p&gt;
 </content>
-        <category term="随便写写" scheme="https://enenf-github-io.vercel.app/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/" />
-        <category term="reading" scheme="https://enenf-github-io.vercel.app/tags/reading/" />
+        <category term="Read" scheme="https://enenf-github-io.vercel.app/categories/read/" />
+        <category term="read" scheme="https://enenf-github-io.vercel.app/tags/read/" />
         <updated>2024-03-30T12:12:14.000Z</updated>
     </entry>
     <entry>
-        <id>https://enenf-github-io.vercel.app/%E8%8B%B1%E8%AF%AD6%E6%9C%88/</id>
-        <title>学英语哩</title>
-        <link rel="alternate" href="https://enenf-github-io.vercel.app/%E8%8B%B1%E8%AF%AD6%E6%9C%88/"/>
+        <id>https://enenf-github-io.vercel.app/interpret/</id>
+        <title>翻译</title>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/interpret/"/>
         <content type="html">&lt;p&gt;吉林 长春&lt;/p&gt;
 &lt;p&gt;今天练了一篇 catti 真题汉译英复盘&lt;br /&gt;
 &lt;img data-src=&#34;https://fastly.jsdelivr.net/gh/enenf/blog-cdn/note/1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;这位姐姐感觉好可爱&lt;/p&gt;
 </content>
-        <category term="Study" scheme="https://enenf-github-io.vercel.app/categories/Study/" />
+        <category term="Study" scheme="https://enenf-github-io.vercel.app/categories/study/" />
         <category term="English" scheme="https://enenf-github-io.vercel.app/tags/English/" />
         <updated>2023-06-09T03:02:14.000Z</updated>
     </entry>
@@ -51,18 +51,18 @@
         <content type="html">&lt;p&gt;决定专门写一篇&lt;br /&gt;
 暴揍静静 。&lt;/p&gt;
 </content>
-        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/life/" />
+        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/just-writing/" />
         <category term="无聊" scheme="https://enenf-github-io.vercel.app/tags/%E6%97%A0%E8%81%8A/" />
         <updated>2023-06-08T08:04:22.382Z</updated>
     </entry>
     <entry>
-        <id>https://enenf-github-io.vercel.app/coding-train/day1/</id>
+        <id>https://enenf-github-io.vercel.app/practice/</id>
         <title>算法</title>
-        <link rel="alternate" href="https://enenf-github-io.vercel.app/coding-train/day1/"/>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/practice/"/>
         <content type="html">&lt;h5 id=&#34;试一下&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#试一下&#34;&gt;#&lt;/a&gt; 试一下&lt;/h5&gt;
 &lt;p&gt;还不成功我就去睡觉！！！&lt;/p&gt;
 </content>
-        <category term="刷题" scheme="https://enenf-github-io.vercel.app/categories/%E5%88%B7%E9%A2%98/" />
+        <category term="刷题" scheme="https://enenf-github-io.vercel.app/categories/practice/" />
         <category term="leetcode" scheme="https://enenf-github-io.vercel.app/tags/leetcode/" />
         <category term="栈" scheme="https://enenf-github-io.vercel.app/tags/%E6%A0%88/" />
         <category term="队列" scheme="https://enenf-github-io.vercel.app/tags/%E9%98%9F%E5%88%97/" />
@@ -77,7 +77,7 @@ yeeee！&lt;/p&gt;
 &lt;p&gt;The end is always good. If it is not good, it is not the end.&lt;/p&gt;
 &lt;p&gt;hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/p&gt;
 </content>
-        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/life/" />
+        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/just-writing/" />
         <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
         <updated>2023-06-07T16:02:14.000Z</updated>
     </entry>
@@ -91,7 +91,21 @@ yeeee！&lt;/p&gt;
 &lt;p&gt;谢谢芬的一些照片&lt;br /&gt;
 谢谢秋秋&lt;/p&gt;
 </content>
-        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/life/" />
+        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/just-writing/" />
+        <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
+        <updated>2023-06-07T16:02:14.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://enenf-github-io.vercel.app/thanks/</id>
+        <title>Thanks</title>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/thanks/"/>
+        <content type="html">&lt;p&gt;谢谢大家嘞&lt;br /&gt;
+非常非常非常感谢教了我很久的朋友！&lt;br /&gt;
+感恩！&lt;/p&gt;
+&lt;p&gt;谢谢芬的一些照片&lt;br /&gt;
+谢谢秋秋&lt;/p&gt;
+</content>
+        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/just-writing/" />
         <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
         <updated>2023-06-07T16:02:14.000Z</updated>
     </entry>
@@ -103,7 +117,7 @@ yeeee！&lt;/p&gt;
 &lt;p&gt;我还欠你一个歌单&lt;/p&gt;
 &lt;h1 id=&#34;lalalalala&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#lalalalala&#34;&gt;#&lt;/a&gt; lalalalala&lt;/h1&gt;
 </content>
-        <category term="随便写写" scheme="https://enenf-github-io.vercel.app/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/" />
+        <category term="Life" scheme="https://enenf-github-io.vercel.app/categories/Life/" />
         <category term="随笔" scheme="https://enenf-github-io.vercel.app/tags/%E9%9A%8F%E7%AC%94/" />
         <updated>2023-06-07T08:47:04.357Z</updated>
     </entry>
