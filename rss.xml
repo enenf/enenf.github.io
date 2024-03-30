@@ -10,11 +10,21 @@
         </author>
         <description>林门</description>
         <language>zh-CN</language>
-        <pubDate>Fri, 09 Jun 2023 11:02:14 +0800</pubDate>
-        <lastBuildDate>Fri, 09 Jun 2023 11:02:14 +0800</lastBuildDate>
+        <pubDate>Sat, 30 Mar 2024 20:12:14 +0800</pubDate>
+        <lastBuildDate>Sat, 30 Mar 2024 20:12:14 +0800</lastBuildDate>
         <category term="前端" />
         <category term=" React" />
         <category term=" 全栈" />
+        <item>
+            <guid isPermalink="true">https://enenf-github-io.vercel.app/reading/</guid>
+            <title>Reading</title>
+            <link>https://enenf-github-io.vercel.app/reading/</link>
+            <category term="随便写写" scheme="https://enenf-github-io.vercel.app/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/" />
+            <category term="reading" scheme="https://enenf-github-io.vercel.app/tags/reading/" />
+            <pubDate>Sat, 30 Mar 2024 20:12:14 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;《你当像鸟飞往你的山》&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://enenf-github-io.vercel.app/%E8%8B%B1%E8%AF%AD6%E6%9C%88/</guid>
             <title>学英语哩</title>
@@ -23,7 +33,7 @@
             <category term="English" scheme="https://enenf-github-io.vercel.app/tags/English/" />
             <pubDate>Fri, 09 Jun 2023 11:02:14 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;吉林 长春&lt;/p&gt;
-&lt;p&gt;我今天练了一篇 catti 真题汉译英复盘&lt;br /&gt;
+&lt;p&gt;今天练了一篇 catti 真题汉译英复盘&lt;br /&gt;
 &lt;img data-src=&#34;https://fastly.jsdelivr.net/gh/enenf/blog-cdn/note/1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;这位姐姐感觉好可爱&lt;/p&gt;
  ]]></description>
@@ -84,12 +94,10 @@ yeeee！&lt;/p&gt;
             <title>嘿嘿嘿</title>
             <link>https://enenf-github-io.vercel.app/%E9%9A%8F%E7%AC%94/</link>
             <category term="随便写写" scheme="https://enenf-github-io.vercel.app/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/" />
-            <category term="HTML" scheme="https://enenf-github-io.vercel.app/tags/HTML/" />
             <category term="随笔" scheme="https://enenf-github-io.vercel.app/tags/%E9%9A%8F%E7%AC%94/" />
             <pubDate>Wed, 07 Jun 2023 16:47:04 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;什么时候才能让pt看见啊&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么时候才能让pt看见啊&#34;&gt;#&lt;/a&gt; 什么时候才能让 PT 看见啊&lt;/h1&gt;
-&lt;pre&gt;&lt;code&gt;我还欠你一个歌单
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我还欠你一个歌单&lt;/p&gt;
 &lt;h1 id=&#34;lalalalala&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#lalalalala&#34;&gt;#&lt;/a&gt; lalalalala&lt;/h1&gt;
  ]]></description>
         </item>
