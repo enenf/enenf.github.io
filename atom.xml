@@ -69,6 +69,19 @@
         <updated>2023-06-07T17:00:52.000Z</updated>
     </entry>
     <entry>
+        <id>https://enenf-github-io.vercel.app/2023-university/</id>
+        <title>2023，第一篇</title>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/2023-university/"/>
+        <content type="html">&lt;p&gt;2023&lt;br /&gt;
+yeeee！&lt;/p&gt;
+&lt;p&gt;The end is always good. If it is not good, it is not the end.&lt;/p&gt;
+&lt;p&gt;hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/p&gt;
+</content>
+        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/just-writing/" />
+        <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
+        <updated>2023-06-07T16:02:14.000Z</updated>
+    </entry>
+    <entry>
         <id>https://enenf-github-io.vercel.app/thanks/</id>
         <title>Thanks</title>
         <link rel="alternate" href="https://enenf-github-io.vercel.app/thanks/"/>
@@ -77,19 +90,6 @@
 感恩！&lt;/p&gt;
 &lt;p&gt;谢谢芬的一些照片&lt;br /&gt;
 谢谢秋秋&lt;/p&gt;
-</content>
-        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/just-writing/" />
-        <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
-        <updated>2023-06-07T16:02:14.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://enenf-github-io.vercel.app/2023-university/</id>
-        <title>2023，第一篇</title>
-        <link rel="alternate" href="https://enenf-github-io.vercel.app/2023-university/"/>
-        <content type="html">&lt;p&gt;2023&lt;br /&gt;
-yeeee！&lt;/p&gt;
-&lt;p&gt;The end is always good. If it is not good, it is not the end.&lt;/p&gt;
-&lt;p&gt;hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/p&gt;
 </content>
         <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/just-writing/" />
         <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
