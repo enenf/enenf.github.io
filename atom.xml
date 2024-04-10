@@ -8,10 +8,29 @@
     <author>
       <name>Tong</name>
     </author>
-    <updated>2024-04-06T02:22:14.000Z</updated>
+    <updated>2024-04-10T13:51:14.000Z</updated>
     <category term="前端" />
     <category term=" React" />
     <category term=" 全栈" />
+    <entry>
+        <id>https://enenf-github-io.vercel.app/encourage/</id>
+        <title>被讨厌的勇气</title>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/encourage/"/>
+        <content type="html">&lt;h3 id=&#34;接受自己接受他人&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#接受自己接受他人&#34;&gt;#&lt;/a&gt; 接受自己，接受他人。&lt;/h3&gt;
+&lt;p&gt;* 我们的不幸，是自己 “选择” 的&lt;br /&gt;
+ * 人生不是与他人的比赛，是伙伴非敌人&lt;br /&gt;
+ * 课题分离&lt;br /&gt;
+ * 横向&lt;/p&gt;
+&lt;p&gt;我的骄傲不允许我把这崩溃的日子告诉别人，只有我知道这一夜之间，我的心判若两人。      —— 太宰治《人间失格》&lt;/p&gt;
+&lt;p&gt;我宁愿别人不喜欢我，我也要喜欢自己，因为你越希望别人喜欢你 ，你就越不喜欢自己。&lt;br /&gt;
+允许自己做自己 允许别人做别人。&lt;/p&gt;
+&lt;p&gt;Yesterday is history, tomorrow is a mystery, today is God&#39;s gift, that&#39;s why we call it the present.&lt;br /&gt;
+ 昨天已成历史，明天还是神秘之事，只有今天才是上帝给我们的恩赐。——《功夫熊猫》&lt;/p&gt;
+</content>
+        <category term="Read" scheme="https://enenf-github-io.vercel.app/categories/read/" />
+        <category term="read" scheme="https://enenf-github-io.vercel.app/tags/read/" />
+        <updated>2024-04-10T13:51:14.000Z</updated>
+    </entry>
     <entry>
         <id>https://enenf-github-io.vercel.app/record%20of%20Exp/</id>
         <title>Record of Exp</title>
@@ -109,6 +128,19 @@
         <updated>2023-06-07T17:00:52.000Z</updated>
     </entry>
     <entry>
+        <id>https://enenf-github-io.vercel.app/2023-university/</id>
+        <title>2023，第一篇</title>
+        <link rel="alternate" href="https://enenf-github-io.vercel.app/2023-university/"/>
+        <content type="html">&lt;p&gt;2023&lt;br /&gt;
+yeeee！&lt;/p&gt;
+&lt;p&gt;The end is always good. If it is not good, it is not the end.&lt;/p&gt;
+&lt;p&gt;hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/p&gt;
+</content>
+        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/just-writing/" />
+        <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
+        <updated>2023-06-07T16:02:14.000Z</updated>
+    </entry>
+    <entry>
         <id>https://enenf-github-io.vercel.app/thanks/</id>
         <title>Thanks</title>
         <link rel="alternate" href="https://enenf-github-io.vercel.app/thanks/"/>
@@ -117,19 +149,6 @@
 感恩！&lt;/p&gt;
 &lt;p&gt;谢谢芬的一些照片&lt;br /&gt;
 谢谢秋秋&lt;/p&gt;
-</content>
-        <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/just-writing/" />
-        <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
-        <updated>2023-06-07T16:02:14.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://enenf-github-io.vercel.app/2023-university/</id>
-        <title>2023，第一篇</title>
-        <link rel="alternate" href="https://enenf-github-io.vercel.app/2023-university/"/>
-        <content type="html">&lt;p&gt;2023&lt;br /&gt;
-yeeee！&lt;/p&gt;
-&lt;p&gt;The end is always good. If it is not good, it is not the end.&lt;/p&gt;
-&lt;p&gt;hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/p&gt;
 </content>
         <category term="随笔" scheme="https://enenf-github-io.vercel.app/categories/just-writing/" />
         <category term="总结" scheme="https://enenf-github-io.vercel.app/tags/%E6%80%BB%E7%BB%93/" />
